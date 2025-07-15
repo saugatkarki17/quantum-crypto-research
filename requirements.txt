@@ -1,0 +1,13 @@
+pqcrypto
+qiskit
+qiskit-terra
+qiskit-aer
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+deap
+joblib
