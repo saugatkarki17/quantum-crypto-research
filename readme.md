@@ -62,7 +62,7 @@ Quantum computers could break old-school encryption like RSA, so we're exploring
 **Takeaway**: Kyber’s quick and quantum-safe, ML makes it better, RSA’s a goner, and NTRU’s worth exploring.
 
 ## Wrap-Up & What’s Next
-**Wins**: Showed RSA’s toast, made a Kyber dataset, used ML to catch issues and boost speed, and compared everything.  
+**Wins**: Need more research
 **Next**: Try cooler ML models, test on real hardware, check out other PQC options like Dilithium, or build a live dashboard to watch performance.
 
 ## Extra Stuff
